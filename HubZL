@@ -127,7 +127,8 @@ local TargetBrainrots = {
     ["Polaroidini"] = true,
     ["La Fuse Machine"] = true,
     ["Nachorilla"] = true,
-    ["Sammyni Truckini"] = true
+    ["Sammyni Truckini"] = true,
+    ["Scorpino Coasterino"] = true
 }
 
 local TargetBaseSkins = {
